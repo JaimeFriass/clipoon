@@ -1,4 +1,4 @@
-![Main logo](blob/master/img/clipoon.png)
+![Main logo](/img/clipoon.png)
 # Clipoon
 
 > Proyecto de red social que relaciona gente del sector audiovisual entre sí, dando a conocer sus diversos trabajos y proyectos en los que se involucran y con posibilidad de participar en otros proyectos, conocer gente del sector, o buscar un determinado rol del sector mediante búsquedas personalizadas.
@@ -13,10 +13,10 @@
 Desarrollado con **Node** y **Vue** y utilizando Firestore como base de datos.
 
 ## Imagenes
-![Pagina principal](blob/master/img/clipoon3.png)
-![Gestion de proyectos](blob/master/img/clipoon1.png)
-![Visualización de proyectos](blob/master/img/clipoon2.png)
-![Interacción entre usuarios](blob/master/img/clipoon4.png)
+![Pagina principal](/img/clipoon3.png)
+![Gestion de proyectos](/img/clipoon1.png)
+![Visualización de proyectos](/img/clipoon2.png)
+![Interacción entre usuarios](/img/clipoon4.png)
 
 ## Build Setup
 firebaseConfig.js - A rellenar utilizando los datos de un proyecto de Firebase
