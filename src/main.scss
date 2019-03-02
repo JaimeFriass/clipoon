@@ -1,0 +1,87 @@
+$primary-color: rgb(218, 100, 33);
+$secundary-color: rgb(209, 121, 7);
+$dark-color: rgb(218, 100, 33);
+$interaction-color: rgb(255, 182, 140);
+
+body {
+    font-family: 'Asap', sans-serif;
+}
+
+.nvar {
+    font-family: 'Quicksand', sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Quicksand', sans-serif;
+}
+.nvar {
+    background-color: $primary-color;
+}
+
+.bt-normal {
+    font-family: 'Montserrat', sans-serif;
+    background-color: $primary-color;
+
+    border-radius: 18px;
+    border-top: none;
+    border-left: none;
+    border-bottom: solid 1px;
+    border-right: solid 1px;
+    border-color: rgba(221, 221, 221, 0.514);
+
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    color: white;
+    transition: all .15s;
+    text-transform: uppercase;
+    box-shadow: 0 0 15px rgba(196, 196, 196, 0.534);
+    background-size: 200% auto;
+    text-decoration: none;
+    cursor: pointer;
+    
+}
+
+.bt-normal:hover {
+    background-color: $interaction-color;
+    background-position: right center;
+    border-color: rgba(179, 179, 179, 0.712);
+    color: white;
+    text-decoration: none;
+}
+
+.bt-primary {
+    background-image: linear-gradient(to right, rgb(238, 144, 67) 0%,rgb(218, 120, 33) 51%, rgb(225, 130, 33) 100%);
+}
+
+.bt-secundary {
+    background-image: linear-gradient(to right, rgb(119, 119, 119) 0%, 
+    rgb(146, 146, 146) 51%, rgb(65, 65, 65) 100%);
+}
+
+.bt-filled {
+    width: auto;
+}
+
+.bt-right {
+    display: inline;
+}
+
+.bt-rounded {
+    border-radius: 50% !important;
+    padding: 8px 13px 8px 13px;
+}
+
+
+
+.link {
+    color: white;
+}
+
+.spinner {
+    margin: 40px;
+}
