@@ -13,10 +13,10 @@
 Desarrollado con **Node** y **Vue** y utilizando Firestore como base de datos.
 
 ## Imagenes
-![Pagina principal](/img/clipoon3.png)
-![Gestion de proyectos](/img/clipoon1.png)
-![Visualización de proyectos](/img/clipoon2.png)
-![Interacción entre usuarios](/img/clipoon4.png)
+![Pagina principal](/img/clipoon3.PNG)
+![Gestion de proyectos](/img/clipoon1.PNG)
+![Visualización de proyectos](/img/clipoon2.PNG)
+![Interacción entre usuarios](/img/clipoon4.PNG)
 
 ## Build Setup
 firebaseConfig.js - A rellenar utilizando los datos de un proyecto de Firebase
